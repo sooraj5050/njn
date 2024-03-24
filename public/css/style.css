@@ -1,0 +1,28 @@
+.sortable-icon {
+    cursor: pointer;
+    float:right;
+}
+
+.button-style {
+border-radius: 50px;
+color: white;
+transition: filter 0.3s;
+border: none;
+padding: 10px 20px;
+}
+
+.button-style.blue {
+background: linear-gradient(45deg, #00008b, #1e90ff);
+}
+
+.button-style.red {
+background: linear-gradient(45deg, #b30000, #ff6347);
+}
+
+.button-style.green {
+background: linear-gradient(45deg, #008000, #32cd32);
+}
+
+.button-style.orange {
+background: linear-gradient(45deg, #ff8000, #ffa500);
+}
